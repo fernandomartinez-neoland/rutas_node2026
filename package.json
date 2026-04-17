@@ -1,0 +1,30 @@
+{
+  "name": "rutas",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000r\u0000u\u0000t\u0000a\u0000s\u0000_\u0000n\u0000o\u0000d\u0000e\u00002\u00000\u00002\u00006\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernandomartinez-neoland/rutas_node2026.git"
+  },
+  "keywords": [],
+  "author": "", 
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/fernandomartinez-neoland/rutas_node2026/issues"
+  },
+  "homepage": "https://github.com/fernandomartinez-neoland/rutas_node2026#readme",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "mongoose": "^9.4.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
